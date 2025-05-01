@@ -1,9 +1,9 @@
-# 📘 College/Staff Management System
+# Staff Management System
 
 A web-based platform designed to automate faculty scheduling, attendance tracking, leave management, and salary calculation for educational institutions.
 
 
-## 🎯 Project Overview
+## Project Overview
 
 The Staff Management System is a centralized platform that simplifies workforce management by automating:
 
@@ -16,18 +16,18 @@ It provides tailored dashboards and functionalities for various roles including 
 
 ---
 
-## 💡 Key Features
+##  Key Features
 
-- 🗓️ **Automated Timetable Generation**
-- 📊 **Attendance Tracking**
-- 💰 **Salary Calculation**
-- 📝 **Leave Management System**
-- 🧑‍💼 **Role-Based Dashboards**
-- 📁 **Report Generation**
+-  **Automated Timetable Generation**
+-  **Attendance Tracking**
+-  **Salary Calculation**
+-  **Leave Management System**
+-  **Role-Based Dashboards**
+-  **Report Generation**
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Frontend**: HTML, CSS  
 - **Backend**: PHP  
@@ -36,11 +36,11 @@ It provides tailored dashboards and functionalities for various roles including 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ---
 
-## 👤 User Roles & Permissions
+## User Roles & Permissions
 
 | Role                | Functionalities |
 |---------------------|----------------|
@@ -52,7 +52,7 @@ It provides tailored dashboards and functionalities for various roles including 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 git clone https://github.com/Simranjit15kaur/College_management.git
